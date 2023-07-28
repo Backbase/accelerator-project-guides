@@ -1,0 +1,7 @@
+# CSE 256 DS- Extend - How to identify the order of next steps/journeys in the flow based on the user input in a prior journey/step
+|     |     |
+| --- | --- |
+| **Jira Ticket** | [![](https://backbase.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/17301?size=medium)PROMO-2350: DS Extend : How to identify the order of next steps/journeys in the flow based on the user input in a prior journey/stepDone](https://backbase.atlassian.net/browse/PROMO-2350) |
+| **Github Repository** | [https://github.com/baas-devops-cse/us-onboarding-service/releases/tag/2021.08-0.5.0](https://github.com/baas-devops-cse/us-onboarding-service/releases/tag/2021.08-0.5.0)<br><br>[![](https://github.githubassets.com/favicon.ico)https://github.com/baas-devops-cse/web-us-onboarding-app/commit/53f781da3748f862583da0d4685f2ca18d469403](https://github.com/baas-devops-cse/web-us-onboarding-app/commit/53f781da3748f862583da0d4685f2ca18d469403) \- Connect your Github account |
+| **Effort** | 3 story-points / 1 - 3 dev-days |
+| **How-To Guide** | [How to: identify the order of next steps/journeys in the flow based on the user input in a prior journey/step](https://backbase.atlassian.net/wiki/spaces/CSE/pages/3489071890)<br><br>[How to: Enable multiple products selection](https://backbase.atlassian.net/wiki/spaces/CSE/pages/3499721196) |
