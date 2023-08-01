@@ -1,0 +1,27 @@
+# Concept Testing (Jan 2022)
+Journeys : **QR Scan & Pay** | **Prepaid Mobile Top Up**
+
+### Objectives:
+
+*   To assess clients' receptivity towards the new journeys designed for APAC Retail Banking
+    
+*   To capture any user requirements that were potentially missed out
+    
+*   To understand from our clients other end-user needs (outside of test scope) that are not yet met in our Backbase OOTB products
+    
+
+|     |     |
+| --- | --- |
+| Journeys tested | * [QR Scan and Pay](/wiki/spaces/LRD/pages/3482845187)<br>    <br>* [Prepaid Mobile Top Up](/wiki/spaces/LRD/pages/3482485221) |
+| Participants | * Existing clients in the APAC region who have adopted Backbase’s products<br>    <br>* We begin with clients from Ubank, BDO, and TCB |
+| Format and logistics | * Remote testing via Google meets<br>    <br>* Participants to have both mobile device and laptop ready<br>    <br>* Participants to access the prototype via Marvel and complete tasks at their own pace<br>    <br>* Participants to enable video and voice recording during the test so that we can document their process and interactions |
+| Prototype links | * For participants: [Mobile prototype](https://marvelapp.com/start-user-test/8OTJd5mdR33wVTQB47nQ) and [Introductory slides](https://docs.google.com/presentation/d/1_5DC7VkG4iSGIq8IDsGeTRLzNfp7pi_rUeKnCN__X94/edit?usp=sharing)<br>    <br>* For internal team: [Working file](https://www.figma.com/file/5t0GHSK6Yv808lMlglfspi/Usability-test-(Jan-2022)?node-id=1%3A3) |
+
+### Test framework:
+
+|     |     |     |
+| --- | --- | --- |
+| **Section** | **Objectives** | **Moderator’s script** |
+| Intro | To outline purpose of this test + provide participants some context of this project<br><br>To understand customer personas of our clients | 1.  Thanks so much for taking the time to participate in this session. My name is ____ and I will be the facilitating this session today. Before we proceed, is it ok if we record this session?<br>    <br>2.  To begin, let me give a quick overview of what this exercise is about.  <br>    What we are doing today is “concept testing” – we have designed some new journeys for our product, and the purpose of today’s session is to find out if our ideas / designs are headed in the right direction. That includes understanding if there are any potential usability issues, any business requirements that are not captured, any end-user needs that are not met.<br>    <br>3.  Before we proceed, let’s do a round of quick introduction of everyone.<br>    <br>4.  To better understand your bank:<br>    <br>    * who are your customer personas<br>        <br>    * what digital experience does your bank provide (retail/business/wealth)<br>        <br>    * which BB product have you adopted<br>        <br>    * how many customers are currently using the app? |
+| Main exercise | To allow participant to run through our new journeys and gather their feedback o business / user requirements, potential usability issues, etc. | 1.  In the following exercise, I will need you to access our prototype via the QR code that we will flash the screen later.<br>    <br>2.  Before we begin, let me bring you through the set up quickly.<br>    <br>    * This will be a recorded session. The purpose of the recording is to help us understand your thought process.<br>        <br>    * We encourage you to think out loud - describe what you’re seeing, what you’re doing, any questions or difficulties you face.<br>        <br>    * Do note that this is a prototype - not everything is clickable, if there’s a button that you’re trying to press and not working, feel free to voice out.<br>        <br>3.  There will be 2 tasks that you need to complete. \[explain tasks\] I will leave the instructions on the screen for your reference.<br>    <br>    * move on straight to the next task once you’re done with the first<br>        <br>    * once you’re done with both, click on the red “stop recording” button<br>        <br>4.  Without further ado, let’s begin! Please remember to mute your audio on Google Meets.<br>    <br><br>**Feedback session**<br><br>1.  On a scale of 1 to 5 – how easy was it for you to complete the task? (1 = very difficult, 5 = very easy)<br>    <br>    * anything you found unclear?  <br>        anything that caught your eye?  <br>        anything you’d like to add to the journey?<br>        <br>    * feel free to go back to the screens again if you need a second look.<br>        <br>2.  Pay bills landing:<br>    <br>    * how do you feel when you first landed on this page? is it clear to you what this page is presenting? |
+| Wrap up | To conclude the session<br><br>To collect additional feedback on other opportunities outside of test scope | 1.  Thank you for completing the tasks. Do you have any further comments on the journeys you just walked through?<br>    <br>2.  On a scale of 1 to 5 – how important is it for you to have these 2 journeys in the BB product, for you as a client to adopt our product? (1 = not important at all, 5 = very important)<br>    <br>3.  Just a final question – are other needs of your customers which were not met by the BB product?<br>    <br>    * how important are these features to you?<br>        <br>4.  Thank you so much for your time and feedback |
