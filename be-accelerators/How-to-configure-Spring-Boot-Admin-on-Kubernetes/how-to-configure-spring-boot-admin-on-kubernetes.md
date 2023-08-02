@@ -134,7 +134,7 @@ c.  The environment variables in the example above will configure manually Ident
      LOGGING_FILE_NAME: "/tmp/spring.log" # Enables access to logs via SBA
 ```
     
-    1.  For **Edge** service some additional configuration needs to be placed: `gateway.actuator.security.enabled: "false"`
+a.  For **Edge** service some additional configuration needs to be placed: `gateway.actuator.security.enabled: "false"`
         
 8.  You can deploy the Server now using helmfile: `helmfile -l component=sba sync`
     
