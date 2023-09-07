@@ -50,6 +50,6 @@ management:
     enabled-by-default: true
 
 drive-wealth:
-  dwClientAppKey: ef948945-1b2f-45b1-a425-6ab2ed7a1a6d
-  clientID: 0oa69qz360MigPNAc1d7
-  clientSecret: KJOtHe9uSVtwrQ_XCIXayQCIKcAFlgiB7an-id5-
+  dwClientAppKey: 
+  clientID: 
+  clientSecret: 
