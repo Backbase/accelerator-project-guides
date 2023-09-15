@@ -1,12 +1,5 @@
 # Portfolio Instrument Integration Service
 
-[![Build Status](https://github.com/baas-devops-reference/portfolio-instrument-integration-service/actions/workflows/build-deploy-master.yml/badge.svg)](https://github.com/baas-devops-reference/portfolio-instrument-integration-service/actions/workflows/build-deploy-master.yml)
-[![Build Status](https://github.com/baas-devops-reference/portfolio-instrument-integration-service/actions/workflows/build-deploy-dev.yml/badge.svg)](https://github.com/baas-devops-reference/portfolio-instrument-integration-service/actions/workflows/build-deploy-dev.yml)
-[![Docs](https://img.shields.io/static/v1?label=Tech%20Docs&message=Confluence&color=green)](https://backbase.atlassian.net/wiki/spaces/PROMO/pages/4088072499/Instrument+Integration+Outbound+API+Mapping)
-[![Docs](https://img.shields.io/static/v1?label=Topstack&message=Application&color=green)](https://github.com/backbase-common/topstack/tree/main/values/applications/portfolio-instrument-integration-service)
-[![a](https://img.shields.io/badge/slack-%20s%20modelbank%20wealth-brightgreen?style=flat&logo=slack)](https://backbase.slack.com/archives/C04AQ3YBJBD)
-[![Support](https://img.shields.io/static/v1?label=ModelBank-Support&message=guide&color=orange)](https://backbase.atlassian.net/wiki/spaces/PROD/pages/3085795818/ModelBank+Support)
-
 ## Repository Overview
 
 - This project is a development of a small set of [Backbase Service SDK](https://community.backbase.com/documentation/ServiceSDK/latest/index) (**Spring Boot** and **Cloud**) based Microservices projects that implement cloud-native intuitive, Microservices design patterns, and coding best practices.

@@ -1,13 +1,5 @@
 # Repository Overview
 
-[![Build Status](https://github.com/baas-devops-reference/wealth-data-sync-service/actions/workflows/build-deploy-master.yml/badge.svg)](https://github.com/baas-devops-reference/wealth-data-sync-service/actions/workflows/build-deploy-master.yml)
-[![Build Status](https://github.com/baas-devops-reference/wealth-data-sync-service/actions/workflows/build-deploy-dev.yml/badge.svg)](https://github.com/baas-devops-reference/wealth-data-sync-service/actions/workflows/build-deploy-dev.yml)
-[![Docs](https://img.shields.io/static/v1?label=Tech%20Docs&message=Confluence&color=green)](https://backbase.atlassian.net/wiki/spaces/PROMO/pages/4075946576/Wealth+Data+Synchronization)
-[![Docs](https://img.shields.io/static/v1?label=Topstack&message=Application&color=green)](https://github.com/backbase-common/topstack/tree/main/values/applications/wealth-data-sync-service)
-[![a](https://img.shields.io/badge/slack-%20s%20modelbank%20wealth-brightgreen?style=flat&logo=slack)](https://backbase.slack.com/archives/C04AQ3YBJBD)
-[![Support](https://img.shields.io/static/v1?label=ModelBank-Support&message=guide&color=orange)](https://backbase.atlassian.net/wiki/spaces/PROD/pages/3085795818/ModelBank+Support)
-
-
 implement cloud-native intuitive, Microservices design patterns, and coding best practices.
 
 - The project follows [**CloudNative**](https://www.cncf.io/) recommendations and the [**twelve-factor app
